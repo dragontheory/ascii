@@ -1,3 +1,5 @@
+https://ascii.co.uk/art/small
+
 ```
     Remember, these are by no means all of the small pictures in this
                                   library.
