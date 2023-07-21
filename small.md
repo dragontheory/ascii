@@ -3097,5 +3097,3 @@ Cyrano de Bergerac
            e-}}{   c       &%&%&%&
 
 ```
-
-```
